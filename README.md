@@ -9,13 +9,13 @@ An interactive **Streamlit-based chatbot** that connects to a custom **MCP (Mult
 ## 📁 Project Structure
 ```bash
 .
-├── client/ # Frontend Streamlit Chat UI
-│ └── main.py # Main Streamlit app
-├── server/ # Backend FastMCP SQLite server
-│ └── server.py # MCP tool & prompt definitions
+├── client.py  # Frontend Streamlit Chat UI
+├── server.py # MCP tool & Backend FastMCP SQLite server
 ├── dummy_tax_alerts.db # SQLite database (if present)
 ├── .env # Environment variables
+├──.venv # virtual environment
 └── README.md # Documentation
+
 ```
 ---
 ## 🚀 Features
