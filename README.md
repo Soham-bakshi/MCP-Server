@@ -1,6 +1,6 @@
 # 📊 Tax Alert Chatbot (MCP-Powered)
 
-An interactive **Streamlit-based chatbot** that connects to a custom **MCP (Multi-Component Protocol)** server. It allows users to **query**, **insert**, **update**, and **delete** tax alerts stored in a local SQLite database. The app uses **LangGraph’s REACT agent framework** with **Google Gemini models** and supports both **SSE** and **STDIO** transport modes.
+An interactive **Streamlit-based chatbot** that connects to a custom **MCP (Model Context Protocol)** server. It allows users to **query**, **insert**, **update**, and **delete** tax alerts stored in a local SQLite database. The app uses **LangGraph’s REACT agent framework** with **Google Gemini models** and supports both **SSE** and **STDIO** transport modes.
 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/51b19e66-e780-4281-af02-b05e23690e1d" />
 
